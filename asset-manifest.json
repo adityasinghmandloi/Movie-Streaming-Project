@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Movie-Streaming-Project/static/css/main.88a0f6a3.css",
+    "main.js": "/Movie-Streaming-Project/static/js/main.c8db1e0b.js",
+    "static/js/787.2e93fe33.chunk.js": "/Movie-Streaming-Project/static/js/787.2e93fe33.chunk.js",
+    "static/media/no-poster.png": "/Movie-Streaming-Project/static/media/no-poster.de8cb0a7786e6bf2b2de.png",
+    "static/media/avatar.png": "/Movie-Streaming-Project/static/media/avatar.0affc1eeb2b145c80bd1.png",
+    "static/media/no-results.png": "/Movie-Streaming-Project/static/media/no-results.2d2c6ee352de3daf8a56.png",
+    "static/media/movix-logo.svg": "/Movie-Streaming-Project/static/media/movix-logo.9d67d13c155c38743f313bd4784d0c7b.svg",
+    "index.html": "/Movie-Streaming-Project/index.html",
+    "main.88a0f6a3.css.map": "/Movie-Streaming-Project/static/css/main.88a0f6a3.css.map",
+    "main.c8db1e0b.js.map": "/Movie-Streaming-Project/static/js/main.c8db1e0b.js.map",
+    "787.2e93fe33.chunk.js.map": "/Movie-Streaming-Project/static/js/787.2e93fe33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88a0f6a3.css",
+    "static/js/main.c8db1e0b.js"
+  ]
+}
